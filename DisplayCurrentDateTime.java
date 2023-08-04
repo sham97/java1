@@ -7,6 +7,5 @@ public class DisplayCurrentDateTime {
 
         // Display the current date and time
         System.out.println("Current Date and Time: " + currentDate);
-        
     }
 }
